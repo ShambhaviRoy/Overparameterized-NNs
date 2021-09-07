@@ -1,2 +1,2 @@
 # Overparameterized-NNs
-Project Report on Experimental Analysis of Overparameterized Neural Networks completed as part of Mathematics of Deep Learning Course at Columbia in Spring 2021.
+Project on Experimental Analysis of Overparameterized Neural Networks completed as part of Mathematics of Deep Learning Course at Columbia in Spring 2021.
